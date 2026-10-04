@@ -1,0 +1,18 @@
+{
+  "name": "project-undy",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "node dev-server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "Chat 1-1 với bạn bè, giao diện tối",
+  "dependencies": {
+    "@vercel/functions": "^3.9.11",
+    "express": "^4.22.3",
+    "pg": "^8.23.1"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
